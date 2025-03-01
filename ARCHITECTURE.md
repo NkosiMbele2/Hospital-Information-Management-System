@@ -54,4 +54,4 @@ Purpose: The Context Diagram shows the system's boundaries and how it interacts 
     Administrators: Manage users, system configurations, and generate reports.
     External Systems: Insurance Providers (for claims), Pharmacies (for prescriptions), and Regulatory Bodies (for compliance).
 
-
+![image alt](https://github.com/NkosiMbele2/Hospital-Information-Management-System/blob/fe22dfaa6a690f522e38570e2a764373c1732c18/Level%201%20Context%20Diagram%20(System%20Context).jpg)
