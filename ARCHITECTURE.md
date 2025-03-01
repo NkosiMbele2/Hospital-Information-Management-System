@@ -57,6 +57,7 @@ Purpose: The Context Diagram shows the system's boundaries and how it interacts 
 
 ![image alt](https://github.com/NkosiMbele2/Hospital-Information-Management-System/blob/fe22dfaa6a690f522e38570e2a764373c1732c18/Level%201%20Context%20Diagram%20(System%20Context).jpg)
 
+ _______________________________________________________
 Level 2: Container Diagram
 Purpose: The Container Diagram breaks the system into major containers (applications or services) that work together to fulfill the system’s functionality.
 
@@ -67,4 +68,15 @@ Containers:
 - Database: Centralized relational database that stores patient data, appointments, billing information, etc.
 - External Systems: Insurance and pharmacy integrations.
 
-  
+ ![image alt](https://github.com/NkosiMbele2/Hospital-Information-Management-System/blob/801fd403f6bbc727712dc14fc56a007fd823f3ce/Level%202%20Container%20Diagram.jpg)
+ _______________________________________________________
+Level 3: Component Diagram
+Purpose: The Component Diagram breaks down the Backend API into its individual components and shows how they interact.
+
+Components:
+- Authentication & Authorization: Handles user login, registration, and role-based access.
+- Patient Management: Manages patient registration, medical history, and contact information.
+- Appointment Management: Handles scheduling, cancellations, and reminders for appointments.
+- Billing & Payments: Manages invoicing, payments, and insurance claims processing.
+- Medical Records Management: Handles patient medical records, prescriptions, and diagnoses.
+- Reporting: Generates hospital and patient-related reports.
