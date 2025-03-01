@@ -80,3 +80,21 @@ Components:
 - Billing & Payments: Manages invoicing, payments, and insurance claims processing.
 - Medical Records Management: Handles patient medical records, prescriptions, and diagnoses.
 - Reporting: Generates hospital and patient-related reports.
+
+  ![image alt](https://github.com/NkosiMbele2/Hospital-Information-Management-System/blob/61d4faa2e85f703052c0c968819fc31e64289bf6/Level%203%20%20Component%20Diagram.jpg)
+
+_______________________________________________________
+ Level 4: Code Diagram
+Purpose: The Code Diagram would provide a detailed breakdown of the classes or functions within one of the components, e.g., Patient Management, showing how they interact and are structured.
+
+Components:
+
+- Patient Class: Contains methods like getPatientInfo(), updatePatientInfo(), etc.
+- Appointment Class: Includes methods like scheduleAppointment(), cancelAppointment().
+- MedicalRecord Class: Stores methods for addRecord(), updateRecord(), etc.
+ _______________________________________________________
+ Summary
+- Level 1 (Context Diagram): High-level view of the system and its interactions with external entities like patients, doctors, administrators, and external systems.
+- Level 2 (Container Diagram): Detailed view of how the system is broken down into containers like the Web App, Mobile App, Backend API, and Database.
+- Level 3 (Component Diagram): Zooms into the Backend API and describes the key components within it, such as patient management, appointment scheduling, and billing.
+- Level 4 (Code Diagram): A deeper look at the code structure of key components.
