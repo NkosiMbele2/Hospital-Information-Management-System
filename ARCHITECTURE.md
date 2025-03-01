@@ -44,6 +44,7 @@ Scope of the Project:
  _______________________________________________________
 
 C4 Architecture Diagram:
+
 Level 1: Context Diagram (System Context)
 Purpose: The Context Diagram shows the system's boundaries and how it interacts with external entities.
 
@@ -55,3 +56,15 @@ Purpose: The Context Diagram shows the system's boundaries and how it interacts 
     External Systems: Insurance Providers (for claims), Pharmacies (for prescriptions), and Regulatory Bodies (for compliance).
 
 ![image alt](https://github.com/NkosiMbele2/Hospital-Information-Management-System/blob/fe22dfaa6a690f522e38570e2a764373c1732c18/Level%201%20Context%20Diagram%20(System%20Context).jpg)
+
+Level 2: Container Diagram
+Purpose: The Container Diagram breaks the system into major containers (applications or services) that work together to fulfill the system’s functionality.
+
+Containers:
+- Web Application (Frontend): Used by patients, doctors, and administrators to interact with the system.
+- Mobile Application (for Medical Staff): Mobile access for doctors and nurses to view records and make updates.
+- Backend API: Provides business logic and data access. Handles authentication, authorization, and interactions with the database.
+- Database: Centralized relational database that stores patient data, appointments, billing information, etc.
+- External Systems: Insurance and pharmacy integrations.
+
+  
