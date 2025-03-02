@@ -6,7 +6,7 @@ The Hospital Information Management System (HIMS) is a comprehensive, digital so
 **Table of Content**
 - [ SPECIFICATION.md](https://github.com/NkosiMbele2/Hospital-Information-Management-System/blob/e9b37d7e2eee792dc73c8084b4fc07080156d4b4/SPECIFICATION.md)
 - [ARCHITECTURE.md](https://github.com/NkosiMbele2/Hospital-Information-Management-System/blob/77227c8aaf479eeca0ffb6d31d9d465e6208028e/ARCHITECTURE.md)
-
+- End to End componets 
 ______________________________
 # End to end components of the system
 
