@@ -1,6 +1,6 @@
-#Stakeholder Analysis Table
+# Stakeholder Analysis Table
 
-##Project: Hospital Information Management System (HIMS)
+## Project: Hospital Information Management System (HIMS)
 
 | Stakeholder  |Role & Responsibilities  |Key Concerns | Pain Points | Success Metrics    |
 | ---|---|---|---|---|
