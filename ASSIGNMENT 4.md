@@ -11,7 +11,7 @@ The **Hospital Information Management System (HIMS)** is designed to digitize ho
 
 🔹 **[System Requirements Document](./System_Requirements_Document.md)** – Detailed functional & non-functional requirements.  
 
-🔹 **[Stakeholder Analysis Table](./Stakeholder_Analysis_Table)** – Identification of key stakeholders, their concerns, and success metrics.  
+🔹 **[Stakeholder Analysis Table](https://github.com/NkosiMbele2/Hospital-Information-Management-System/blob/07f45d857469879e8a79afb22c67374d96af04d9/Stakeholder_Analysis_Table.md)** – Identification of key stakeholders, their concerns, and success metrics.  
 
 🔹 **[Reflection on Challenges Faced](./Reflection)** – Insights into balancing stakeholder needs and handling project complexities.  
 
