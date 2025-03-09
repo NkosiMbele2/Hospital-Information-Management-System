@@ -13,7 +13,7 @@ Refer to the [Stakeholder Analysis Table](https://github.com/NkosiMbele2/Hospita
 ---
 
 ## **3. Functional Requirements**
-The system shall provide the following functionalities:
+The system shall provide the following functionalities **FR** (Functional Requirement):
 
 ### **Patient Management**
 - **FR1**: The system shall allow patients to register and manage their profiles.
@@ -40,7 +40,7 @@ The system shall provide the following functionalities:
 ---
 
 ## **4. Non-Functional Requirements**
-The system shall meet the following quality attributes:
+The system shall meet the following quality attributes **NFR (Non-Functional Requirement)**:
 
 ### **Usability**
 - **NFR1**: The user interface shall be designed following **WCAG 2.1 accessibility standards**.
@@ -80,4 +80,18 @@ The system shall meet the following quality attributes:
 ---
 
 ## **6. Compliance & Regulatory Considerations**
-- The system shall comply with **GDPR and HIPAA** for patient data security.
+- The system shall comply with **National Health Act (NHA)** and **Protection of Personal Information Act (POPIA)** for patient data security.
+
+
+## **7. Future Enhancements**
+- AI-driven **predictive analytics** for patient health monitoring.
+- Integration with wearable devices for **real-time patient vitals tracking**.
+- Chatbot integration for **automated patient inquiries**.
+
+---
+
+## **8. References**
+- [Stakeholder Analysis Table](https://github.com/NkosiMbele2/Hospital-Information-Management-System/blob/168cb88b30b31d0567bca9e7abe428e776c2f45d/Stakeholder%20Analysis%20Table.md)
+
+
+---
