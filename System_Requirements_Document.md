@@ -5,7 +5,7 @@
 ### **1. Introduction**
 The **Hospital Information Management System (HIMS)** is designed to digitize hospital operations, improve patient care, and ensure compliance with healthcare regulations. The system will integrate various hospital functions, including **patient registration, appointment scheduling, medical records management, billing, and reporting**.
 
----
+--- 
 
 ## **2. Stakeholder Analysis**
 Refer to the [Stakeholder Analysis Table](https://github.com/NkosiMbele2/Hospital-Information-Management-System/blob/168cb88b30b31d0567bca9e7abe428e776c2f45d/Stakeholder%20Analysis%20Table.md) for detailed information about system stakeholders, their roles, concerns, and success metrics.
