@@ -8,7 +8,7 @@ The **Hospital Information Management System (HIMS)** is designed to digitize ho
 ---
 
 ## **2. Stakeholder Analysis**
-Refer to the [Stakeholder Analysis Table]([stakeholders.md](https://github.com/NkosiMbele2/Hospital-Information-Management-System/blob/main/Stakeholder%20Analysis%20Table.md)) for detailed information about system stakeholders, their roles, concerns, and success metrics.
+Refer to the [Stakeholder Analysis Table]([https://github.com/NkosiMbele2/Hospital-Information-Management-System/blob/168cb88b30b31d0567bca9e7abe428e776c2f45d/Stakeholder%20Analysis%20Table.md]) for detailed information about system stakeholders, their roles, concerns, and success metrics.
 
 ---
 
