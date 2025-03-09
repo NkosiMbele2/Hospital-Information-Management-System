@@ -18,11 +18,12 @@ The **Hospital Information Management System (HIMS)** is designed to digitize ho
 ---
 
 ## 🚀 Key Features  
+
 ✅ Secure digital storage of patient records.  
 ✅ Role-based access control for staff & administrators.  
 ✅ Appointment scheduling & billing management.  
-✅ Compliance with healthcare data security standards.
-✅ Scalable architecture for future hospital growth.  
+✅ Compliance with healthcare data security standards. 
+ 
 
 ---
 
