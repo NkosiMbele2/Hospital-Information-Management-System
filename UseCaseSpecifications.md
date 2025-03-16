@@ -149,5 +149,6 @@ This document provides detailed use case specifications for 8 critical use cases
 
 ## ✅ Conclusion
 This document outlines the core functionalities of the **Hospital Information Management System (HIMS)** through **8 critical use cases**, ensuring a well-structured and functional digital healthcare system.  
+_______________________________
 
----
+[🔙 Back to Menu](./TestAndUseCaseDocument.md)  
