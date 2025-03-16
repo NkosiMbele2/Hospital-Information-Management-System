@@ -22,7 +22,7 @@
 - 📊 Generate Reports: Admin generates various reports (e.g., operational, financial, patient).
 - 🛡️ Process Insurance Claims: Insurance providers process claims for medical services.
 
-
+![image alt](./HMIS.png)
   
 ### 🔄 Relationships Between Actors and Use Cases:
 - "Register Patient" → "Book Appointment": Patient registration includes booking appointments.
