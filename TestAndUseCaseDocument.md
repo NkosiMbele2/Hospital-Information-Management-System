@@ -2,7 +2,7 @@
 
 ## 📌 Table of Contents  
 - [1️⃣ Introduction](#1️⃣-introduction)  
-- [2️⃣ Use Case Diagram](#2️⃣-use-case-diagram)  
+- [2️⃣ Use Case Diagram](./UseCaseDiagram.md)  
 - [3️⃣ Use Case Specifications](#3️⃣-use-case-specifications)  
 - [4️⃣ Test Case Development](#4️⃣-test-case-development)  
 - [5️⃣ Conclusion](#5️⃣-conclusion)  
