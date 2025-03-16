@@ -1,7 +1,7 @@
 # 🏥 Hospital Information Management System (HIMS) - Test & Use Case Document  
 
 ## 📌 Table of Contents  
-- [1️⃣ Introduction](#1️⃣-introduction)  
+- [1️⃣ Introduction](./Introduction.md)  
 - [2️⃣ Use Case Diagram](./UseCaseDiagrams.md)  
 - [3️⃣ Use Case Specifications](./UseCaseSpecifications.md)  
 - [4️⃣ Test Case Development](./TestCaseDevelopment.md)  
