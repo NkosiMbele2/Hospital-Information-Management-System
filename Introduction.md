@@ -16,3 +16,6 @@ The **Hospital Information Management System (HIMS)** is a **centralized digital
 ✅ **Reporting & Analytics**: Real-time **financial, operational, and patient data analysis**.  
 
 This project ensures **seamless healthcare operations**, benefiting **patients, doctors, hospital staff, and administrators** alike. 🚀  
+______________
+
+[🔙 Back to Menu](./TestAndUseCaseDocument.md)  
