@@ -21,6 +21,8 @@
 - 🔑 Manage User Roles: Admin can manage user permissions and roles.
 - 📊 Generate Reports: Admin generates various reports (e.g., operational, financial, patient).
 - 🛡️ Process Insurance Claims: Insurance providers process claims for medical services.
+
+
   
 ### 🔄 Relationships Between Actors and Use Cases:
 - "Register Patient" → "Book Appointment": Patient registration includes booking appointments.
