@@ -7,6 +7,10 @@
 
 🔹 **[Product Backlog](./Product_Backlog.md)** – A prioritized product backlog using the MoSCoW method.  
 
+🔹 **[Project Link](https://github.com/users/NkosiMbele2/projects/1/views/1)** – Link to the project   
+
+🔹 **[Issues Link](https://github.com/NkosiMbele2/Hospital-Information-Management-System/issues)** – Link to the Issues   
+
 
 ## 1️⃣ Product Backlog
 
