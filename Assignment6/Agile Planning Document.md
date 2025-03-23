@@ -1,5 +1,13 @@
 # Agile Planning Document
 
+## 📂 Project Documentation  
+🔹 **[User Story Creation](./User_Story_Creation.md)** – A detailed format of User stories  
+
+🔹 **[Sprint Planing](./Sprint_Planning.md)** – Sprint goal, sprint backlog, and a goal statemen
+
+🔹 **[Product Backlog](./Product_Backlog.md)** – A prioritized product backlog using the MoSCoW method.  
+
+
 ## 1️⃣ Product Backlog
 
 ### Prioritized Product Backlog (MoSCoW Method)
