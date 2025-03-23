@@ -24,3 +24,6 @@ This sprint focuses on enabling patients to register, book appointments, and all
 This sprint is essential for establishing the **Minimum Viable Product (MVP)** by ensuring core patient and doctor functionalities are fully implemented. By the end of the sprint, users should be able to register, book appointments, and medical staff should be able to manage patient records efficiently. This lays the groundwork for further enhancements, such as billing and reporting in future sprints.
 
 📌 *Progress will be tracked using GitHub Projects, and tasks will move from 'To Do' → 'In Progress' → 'Done'.*
+
+---
+🔙 [Back to Main Menu](./Agile_Planning_Document.md)
