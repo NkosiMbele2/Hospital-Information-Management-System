@@ -33,3 +33,7 @@ A **Kanban board** is a visual project management tool that:
 4. **Enhanced Collaboration**
    - Team members can comment, mention others, and track issue updates in real time.
    - Ensures that work is distributed effectively with clear ownership.
+  
+     ---
+
+       🔙 [Back to Main Menu](./MenuForAssignment7.md)
