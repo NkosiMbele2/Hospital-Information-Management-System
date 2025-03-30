@@ -34,3 +34,4 @@ We chose **Automated Kanban** because:
 📌 *A screenshot of the Kanban board is attached in the project repository.*
 
 ---
+  🔙 [Back to Main Menu](./MenuForAssignment7.md)
