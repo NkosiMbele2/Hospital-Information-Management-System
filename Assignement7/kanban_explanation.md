@@ -1,4 +1,5 @@
 ##  What is a Kanban Board?
+
 A **Kanban board** is a visual project management tool that:
 1. Uses columns (e.g., To Do, In Progress, Done) to represent workflow stages.
 2. Limits work-in-progress (WIP) to prevent overload.
@@ -14,3 +15,21 @@ A **Kanban board** is a visual project management tool that:
 3. **Agile Principles:**
    - Encourages **continuous delivery** by keeping work flowing.
    - Enhances **adaptability** by allowing backlog adjustments based on priorities.
+
+### Key Features
+
+1. **Real-time Task Tracking**
+   - Tasks automatically move between columns based on issue updates.
+   - Ensures visibility and accountability across the team.
+
+2. **Customizable Workflows**
+   - Added ‘Testing’ and ‘Blocked’ columns to improve quality assurance and dependency management.
+   - Supports Agile methodology with iterative improvements.
+
+3. **Seamless Integration with GitHub Issues**
+   - Links tasks directly to GitHub Issues for easy reference and collaboration.
+   - Labels categorize tasks efficiently (`feature`, `bug`, `enhancement`).
+
+4. **Enhanced Collaboration**
+   - Team members can comment, mention others, and track issue updates in real time.
+   - Ensures that work is distributed effectively with clear ownership.
