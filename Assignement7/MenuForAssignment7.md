@@ -17,8 +17,8 @@ system, and create a custom Kanban board to manage Agile workflows.**
 
 🔹 **[Reflection on Challenges Faced](./Reflection.md)** – Insights into balancing stakeholder needs and handling project complexities.  
 
-🔹 **[Reflection on Challenges Faced](./Reflection.md)** – Insights into balancing stakeholder needs and handling project complexities.  
-
+🔹 **[A screenshot of the Kanban board](./Kanbanboard.jpg)** – Insights into balancing stakeholder needs and handling project complexities.  
+https://github.com/NkosiMbele2/Hospital-Information-Management-System/blob/e39370c9284f86f098d4e779220f2d1f56869f72/Assignement7/Kanbanboard.jpg
 ---
 
 ## 🚀 Key Features  
