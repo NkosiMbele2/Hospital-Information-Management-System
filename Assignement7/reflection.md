@@ -13,3 +13,6 @@
 | **Jira** | Advanced Agile features, customizable workflows | Complex setup, steep learning curve |
 
 📌 *Overall, GitHub Projects was the best choice due to its direct integration with our repository and automated Agile workflow management.*
+
+---
+  🔙 [Back to Main Menu](./MenuForAssignment7.md)
