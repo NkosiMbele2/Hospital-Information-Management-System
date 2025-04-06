@@ -22,9 +22,9 @@
 
 - 🔹 [Functional requirements (Assignment 4)](https://github.com/NkosiMbele2/Hospital-Information-Management-System/blob/d688ceb2c1496c92ba402f248b7da6566ff60cdc/System_Requirements_Document.md)
 
-- 🔹 [User stories and sprint tasks (Assignment 6)](./User_Story_Creation.md)
+- 🔹 [User stories and sprint tasks (Assignment 6)](https://github.com/NkosiMbele2/Hospital-Information-Management-System/blob/1d51518fb7be325a2c0974d3ede59e5581f2236a/Assignment6/User_Story_Creation.md)
 
-- 🔹 [TransitionDiagrams](./User_Story_Creation.md)
+- 🔹 [Reflection](./Reflection.md)
 ---
 
 ## 🚀 Key Features  
