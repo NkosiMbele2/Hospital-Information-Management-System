@@ -18,7 +18,7 @@
 
 - 🔹 [Traceability Mapping](./Traceability.md)
 
-- 🔹 [Transition Diagrams](./TransitionDiagrams.md)
+- 🔹 [Transition Diagrams](https://github.com/NkosiMbele2/Hospital-Information-Management-System/blob/d688ceb2c1496c92ba402f248b7da6566ff60cdc/Assignment8/TransitionDiagrams.png)
 
 - 🔹 [Functional requirements (Assignment 4)](./System_Requirement_Document.md)
 
