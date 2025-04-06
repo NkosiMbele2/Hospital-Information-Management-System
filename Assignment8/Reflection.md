@@ -1,4 +1,4 @@
-## 🪞 Reflection
+##  Reflection
 
 ### 🔍 Challenges in Choosing Granularity
 One of the key challenges was **deciding the level of detail** to include in both state and activity diagrams. Too much detail risked overwhelming the reader and making diagrams unreadable, while too little might have missed critical transitions or steps.
