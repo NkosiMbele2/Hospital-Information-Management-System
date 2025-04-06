@@ -12,19 +12,19 @@
 ---
 
 ## 📊 Diagrams and Models
-- 🔹[State Transition Diagrams](.StateTransitionDiagrams.md)
+- 🔹[State Transition Diagrams](./StateTransitionDiagrams.md)
 
-- 🔹 [Activity Workflow Diagrams](.ActivityWorkflowModeling.md)
+- 🔹 [Activity Workflow Diagrams](./ActivityWorkflowModeling.md)
 
-- 🔹 [Traceability Mapping](.Traceability.md)
+- 🔹 [Traceability Mapping](./Traceability.md)
 
-- 🔹 [Transition Diagrams](.TransitionDiagrams.md)
+- 🔹 [Transition Diagrams](./TransitionDiagrams.md)
 
-- 🔹 [Functional requirements (Assignment 4)](.System_Requirement_Document.md)
+- 🔹 [Functional requirements (Assignment 4)](./System_Requirement_Document.md)
 
-- 🔹 [User stories and sprint tasks (Assignment 6)](.User_Story_Creation.md)
+- 🔹 [User stories and sprint tasks (Assignment 6)](./User_Story_Creation.md)
 
-- 🔹 [TransitionDiagrams](.User_Story_Creation.md)
+- 🔹 [TransitionDiagrams](./User_Story_Creation.md)
 ---
 
 ## 🚀 Key Features  
