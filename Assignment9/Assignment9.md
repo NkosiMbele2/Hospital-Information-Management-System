@@ -12,7 +12,7 @@
 
 🔹 **[Domain Model](./DomainModel.md)** – Define their attributes (data fields) and responsibilities (methods/functions).
 
-🔹 **[Class Diagram Mermaid](./ClassDiagramMermaid.md)** – This Mermaid.js class diagram represents the core domain entities of the Hospital Information Management System (HIMS)* 
+🔹 **[Class Diagram Mermaid](./ClassDiagramMermaid.md)** – This Mermaid.js class diagram represents the core domain entities of the (HIMS)* 
 
 🔹 **[Reflection on Challenges Faced](./Reflection.md)** – Insights into balancing stakeholder needs and handling project complexities.  
 
